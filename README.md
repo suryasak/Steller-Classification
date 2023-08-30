@@ -1,0 +1,2 @@
+# Steller-Classification
+In the era of big data and reliable algorithms, data classification is instrumental in the field of astronomical research. In this project, explored supervised classification methods such as Random Forest, Decision Tree and Random Forest. Applied these methods to classify the dataset as Star, Galaxy or Quasar along with comparing different classification models to find the superior one.
